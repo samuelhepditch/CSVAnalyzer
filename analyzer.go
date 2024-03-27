@@ -1,7 +1,5 @@
-package util
 
 import (
-	"api/shared/models"
 	"encoding/csv"
 	"fmt"
 	"io"
